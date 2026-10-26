@@ -1,0 +1,11 @@
+Business name: [REPLACE WITH YOUR BUSINESS NAME]
+Business description: [REPLACE WITH ACTUAL PRODUCTS OR SERVICES]
+Operating hours: Not provided - ask the owner / human support
+Delivery areas: Not provided - ask human support
+Prices: Not provided - do not guess
+Product availability: Not connected to live inventory - do not guess
+Bookings and orders: This chatbot cannot place or confirm orders automatically
+Refund policy: Not provided - ask human support
+Human escalation: Set HUMAN_SUPPORT_CONTACT in .env, and tell customers to send HUMAN
+
+Please replace these placeholders with truthful business information before enabling AI mode.
